@@ -252,7 +252,7 @@ html {
 }
 
 body {
-  background: #242629;
+  background: rgb(59, 56, 56);
 }
 
 body.is-preload *,
@@ -287,10 +287,10 @@ body,
 input,
 select,
 textarea {
-  color: #a0a0a1;
+  color: black;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 15pt;
-  font-weight: 300;
+  font-weight: 450;
   letter-spacing: 0.025em;
   line-height: 1.65;
 }
@@ -322,7 +322,7 @@ a:hover {
 
 strong,
 b {
-  color: #ffffff;
+  color: white;
   font-weight: 300;
 }
 
@@ -1174,7 +1174,7 @@ table.alt tfoot {
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: rgba(36, 38, 41, 0.975);
+  background: rgba(100, 150, 200, 0.975);
   bottom: 4em;
   left: 0;
   max-height: calc(80vh - 4em);
@@ -1632,7 +1632,7 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
-  background: #1f2224;
+  background: rgb(100, 150, 200);
   bottom: -1em;
   height: 5em;
   left: 0;
