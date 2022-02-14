@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Shizuru&display=swap");
 
 /*
 	Multiverse by HTML5 UP
@@ -252,8 +253,8 @@ html {
 }
 
 body {
-  /* background: rgb(59, 56, 56); */
-  background: rgb(86, 129, 172);
+  /* background: #69abce; */
+  background: white;
 }
 
 body.is-preload *,
@@ -289,7 +290,9 @@ input,
 select,
 textarea {
   color: black;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  /* font-family: "Source Sans Pro", Helvetica, sans-serif; */
+  /* font-family: "Shizuru", cursive; */
+  font-family: "Shadows Into Light", cursive;
   font-size: 15pt;
   font-weight: 450;
   letter-spacing: 0.025em;
@@ -1175,7 +1178,7 @@ table.alt tfoot {
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: rgba(100, 150, 200, 0.975);
+  background: #69abce;
   bottom: 4em;
   left: 0;
   max-height: calc(80vh - 4em);
@@ -1633,7 +1636,7 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
-  background: rgb(100, 150, 200);
+  background: #69abce;
   bottom: -1em;
   height: 5em;
   left: 0;
@@ -1731,7 +1734,7 @@ body.is-preload #header {
 }
 
 #header nav > ul > li a.active {
-  background-color: rgb(86, 129, 172);
+  background-color: #69abce;
 }
 
 @media screen and (max-width: 736px) {
