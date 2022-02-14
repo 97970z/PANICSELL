@@ -1,6 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
-@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Shizuru&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shadows+Into+Light+Two&display=swap");
 
 /*
 	Multiverse by HTML5 UP
@@ -292,7 +291,8 @@ textarea {
   color: black;
   /* font-family: "Source Sans Pro", Helvetica, sans-serif; */
   /* font-family: "Shizuru", cursive; */
-  font-family: "Shadows Into Light", cursive;
+  font-family: "Nanum Pen Script", cursive;
+  /* font-family: "Shadows Into Light Two", cursive; */
   font-size: 15pt;
   font-weight: 450;
   letter-spacing: 0.025em;
