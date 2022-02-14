@@ -1731,7 +1731,7 @@ body.is-preload #header {
 }
 
 #header nav > ul > li a.active {
-  background-color: #242629;
+  background-color: rgb(86, 129, 172);
 }
 
 @media screen and (max-width: 736px) {
@@ -2233,12 +2233,3 @@ body.is-preload #main .thumb {
 }
 
 /* Footer */
-
-#footer .copyright {
-  color: #505051;
-  font-size: 0.9em;
-}
-
-#footer .copyright a {
-  color: inherit;
-}
