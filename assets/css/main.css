@@ -1,12 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shadows+Into+Light+Two&display=swap");
 
-/*
-	Multiverse by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 @-moz-keyframes spinner {
   0% {
     -moz-transform: rotate(0deg);
@@ -292,7 +286,6 @@ textarea {
   /* font-family: "Source Sans Pro", Helvetica, sans-serif; */
   /* font-family: "Shizuru", cursive; */
   font-family: "Nanum Pen Script", cursive;
-  /* font-family: "Shadows Into Light Two", cursive; */
   font-size: 15pt;
   font-weight: 450;
   letter-spacing: 0.025em;
