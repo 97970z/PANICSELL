@@ -91,7 +91,11 @@ code,
 del,
 dfn,
 em,
-img,
+img {
+  padding: 0%;
+  margin-bottom: -17px;
+}
+,
 ins,
 kbd,
 q,

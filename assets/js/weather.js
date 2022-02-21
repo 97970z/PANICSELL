@@ -44,7 +44,7 @@ function getWeather(lat, lon) {
       const place = json.name;
       const weatherDescription = json.weather[0].description;
       const weatherIcon = json.weather[0].icon;
-      const weatherIconAdrs = `http://openweathermap.org/img/wn/${weatherIcon}@2x.png`;
+      const weatherIconAdrs = `http://openweathermap.org/img/wn/${weatherIcon}.png`;
 
       //받아온 정보들을 표현한다.
       weatherInfo.innerText = `${temperature} °C / @${place} / ${weatherDescription}`;
