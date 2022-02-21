@@ -94,6 +94,7 @@ em,
 img {
   padding: 0%;
   margin-bottom: -17px;
+  margin-top: 0px;
 }
 ,
 ins,
@@ -1664,6 +1665,11 @@ body.is-preload #header {
   -webkit-transform: translateY(4em);
   -ms-transform: translateY(4em);
   transform: translateY(4em);
+}
+
+#header .weatherInfo {
+  margin: 0px;
+  padding: 0px;
 }
 
 #header h1 {
